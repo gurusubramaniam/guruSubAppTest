@@ -1,0 +1,14 @@
+{
+  "generator-kraken": {
+    "taskModule": "grunt",
+    "lintModule": "eslint",
+    "description": "Subapptesting ",
+    "author": "Gurusubramaniam sundararaman",
+    "templateModule": "dustjs",
+    "i18n": "i18n",
+    "componentPackager": false,
+    "cssModule": "less",
+    "jsModule": false,
+    "useJson": null
+  }
+}
